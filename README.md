@@ -7,16 +7,11 @@ Seminar at the School of Digital Humanities and Computational Social Science, Ko
 
 This notebook is created for learning the basic process of image segmentation (e.g., parking lots, roofs, trees).
 The notebook contains information about five steps:
-
-Step 1. Load Satellite Images Using the Google Maps API
-
-Step 2. Label Pixels
-
-Step 3. Create Patches
-
-Step 4. Build a Random Forest Classifier
-
-Step 5. Visualize Predicted Images
+- Step 1. Load Satellite Images Using the Google Maps API
+- Step 2. Label Pixels
+- Step 3. Create Patches
+- Step 4. Build a Random Forest Classifier
+- Step 5. Visualize Predicted Images
 
 Before processing the notebook, please note that you need to 1) change the file directory name and 2) obtain your Google Maps API key to run the code.
 
