@@ -39,4 +39,10 @@ The results show the patch-level Random Forest classification used to detect par
 However, because both the training and testing data are derived from the same image, the F1-scores are likely over-optimistic due to spatial leakage. More advanced methods can be applied to avoid spatial leakage, such as (1) training and evaluating on different image tiles (e.g., map0_1, map0_2).
 
 
+---
+
+**License:** MIT License  
+You are free to use, modify, and share this notebook for educational and research purposes with proper attribution.
+
+
 
