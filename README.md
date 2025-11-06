@@ -1,4 +1,4 @@
-# lecture
+# Seminar/ Lecture
 
 Seminar at the School of Digital Humanities and Computational Social Science, Korea Advanced Institute of Science and Technology (KAIST)
 
